@@ -1,0 +1,44 @@
+.container {
+  width: 400px;
+  margin-top: 80px;
+  border: 2px solid black;
+}
+
+.num-input {
+  line-height: 80px;
+  background: black;
+  color: white;
+  text-align: right;
+  font-size: 36px;
+  padding: 1px 5px;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+button {
+  height: 100px;
+  font-size: 40px;
+  font-weight: 600;
+  background: #d8d9db;
+}
+
+button:hover {
+  background: #ebebeb;
+}
+
+button:active {
+  background: #bbbcbe;
+}
+
+.function-btn {
+  color: white;
+  background: #df974c;
+}
+
+.function-btn:hover {
+  background: #dfb07e;
+}
+
+.function-btn:active {
+  background: #dd8d37;S
+}
